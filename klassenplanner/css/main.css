@@ -475,7 +475,6 @@ button, a {
 .project-boxes.jsGridView {
   display: flex;
   flex-wrap: wrap;
-  overflow: hidden;
 }
 .project-boxes.jsGridView .project-box-wrapper {
   width: 33.3%;
@@ -487,6 +486,7 @@ button, a {
 }
 .project-boxes.jsListView .project-box > * {
   margin-right: 24px;
+  overflow: hidden;
 }
 .project-boxes.jsListView .more-wrapper {
   position: absolute;
