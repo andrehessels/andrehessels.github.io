@@ -468,11 +468,14 @@ button, a {
 
 .project-boxes {
   margin: 0 -8px;
-  overflow-y: auto;
+}
+.project-boxes * {
+  overflow: hidden;
 }
 .project-boxes.jsGridView {
   display: flex;
   flex-wrap: wrap;
+  overflow: hidden;
 }
 .project-boxes.jsGridView .project-box-wrapper {
   width: 33.3%;
