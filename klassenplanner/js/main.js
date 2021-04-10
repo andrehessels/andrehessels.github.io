@@ -52,7 +52,10 @@ document.addEventListener('DOMContentLoaded', function () {
   var now = new Date()
   var firstDayOfWeek = new Date(now.setDate(now.getDate() - now.getDay()+1));
   const options = {  year: 'numeric', month: 'short', day: 'numeric' };
-  document.getElementById("date").innerHTML = "Huidige week: " + firstDayOfWeek.toLocaleDateString('nl-NL', options);
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+  } else {
+    document.getElementById("date").innerHTML = "Huidige week: " + firstDayOfWeek.toLocaleDateString('nl-NL', options);
+  }
   }
 
 function getWork() {
