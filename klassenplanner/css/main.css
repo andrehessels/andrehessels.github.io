@@ -71,6 +71,7 @@ button, a {
   background-color: var(--app-container);
   transition: 0.2s;
   max-width: 1800px;
+  overflow: hidden;
 }
 .app-content {
   display: flex;
