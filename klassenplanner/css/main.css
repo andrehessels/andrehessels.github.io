@@ -75,7 +75,7 @@ button, a {
 .app-content {
   display: flex;
   height: 100%;
-  overflow: hidden;
+  overflow-x: hidden;
   padding: 16px 24px 24px 0;
 }
 .app-header {
