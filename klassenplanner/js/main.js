@@ -79,6 +79,12 @@ function getWork() {
         "teacher": "SCE",
         "color": "#affadb"
       }, {
+        "lessonname": "Duits",
+        "deadline": "14 April 2021",
+        "title": "Opdracht 32, 34, 35 met de voorgegeven woorden 6 zinnen schrijven en 42",
+        "teacher": "STC",  
+        "color": "#ccfdff"
+      }, {
         "lessonname": "Engels",
         "deadline": "14 April 2021",
         "title": "Grammar p. 59 en ReadTheory",
