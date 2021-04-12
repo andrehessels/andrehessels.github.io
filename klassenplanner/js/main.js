@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function () {
     var modeSwitch = document.querySelector('.mode-switch');
   
@@ -66,12 +67,6 @@ function getWork() {
         "teacher": "ALB",
         "color": "#d1ffdc"
       }, {
-        "lessonname": "Nederlands",
-        "deadline": "12 April 2021",
-        "title": "Opdracht 3 op blz. 183: 3, 4, 9, 10 en 13",
-        "teacher": "JAG",
-        "color": "#ffb5df"
-      }, {
         "lessonname": "Duits",
         "deadline": "12 April 2021",
         "title": "Opdracht 21 t/m 26 blz. 67",
@@ -89,6 +84,12 @@ function getWork() {
         "title": "Grammar p. 59 en ReadTheory",
         "teacher": "ZWA",
         "color": "#e6ccff"
+      }, {
+        "lessonname": "Nederlands",
+        "deadline": "15 April 2021",
+        "title": "Opdracht 1 op blz. 222: 3, 6, 9, 13, 15 en 18",
+        "teacher": "JAG",
+        "color": "#ffb5df"
       }, {
         "lessonname": "Economie",
         "deadline": "16 April 2021",
