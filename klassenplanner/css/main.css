@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 
-body {
-  overflow-y: hidden;
+body > * {
+  overflow: hidden;
 }
 
 :root {
@@ -479,12 +479,13 @@ button, a {
 .project-boxes.jsGridView {
   display: flex;
   flex-wrap: wrap;
+  overflow-y: scroll;
 }
 .project-boxes.jsGridView .project-box-wrapper {
   width: 33.3%;
 }
 .project-boxes.jsListView {
-  overflow-x: hidden;
+  overflow-y: scroll;
 }
 .project-boxes.jsListView .project-box {
   display: flex;
