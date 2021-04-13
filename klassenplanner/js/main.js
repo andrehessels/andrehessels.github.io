@@ -65,19 +65,19 @@ function getWork() {
         "deadline": "12 April 2021",
         "title": "Voorbereiding Basisles 2",
         "teacher": "ALB",
-        "color": "#d1ffdc"
+        "color": "#bdbdbd"
       }, {
         "lessonname": "Duits",
         "deadline": "12 April 2021",
         "title": "Opdracht 21 t/m 26 blz. 67",
         "teacher": "STC",  
-        "color": "#ccfdff"
+        "color": "#bdbdbd"
       }, {
         "lessonname": "Wiskunde",
         "deadline": "13 April 2021",
         "title": "Maak 1.4 t/m 1.6 en 2.1 t/m 2.3",
         "teacher": "SCE",
-        "color": "#affadb"
+        "color": "#bdbdbd"
       }, {
         "lessonname": "Duits",
         "deadline": "14 April 2021",
@@ -87,7 +87,7 @@ function getWork() {
       }, {
         "lessonname": "Engels",
         "deadline": "14 April 2021",
-        "title": "Grammar p. 59 en ReadTheory",
+        "title": "Prepare p. 59 en ReadTheory",
         "teacher": "ZWA",
         "color": "#e6ccff"
       }, {
