@@ -91,12 +91,6 @@ function getWork() {
         "teacher": "ZWA",
         "color": "#e6ccff"
       }, {
-        "lessonname": "Nederlands",
-        "deadline": "15 April 2021",
-        "title": "Opdracht 1 op blz. 222: 3, 6, 9, 13, 15 en 18",
-        "teacher": "JAG",
-        "color": "#ffb5df"
-      }, {
         "lessonname": "Economie",
         "deadline": "16 April 2021",
         "title": "Loonkosten per product, Bitterblond en Lonen lage lonen én presentaties",
